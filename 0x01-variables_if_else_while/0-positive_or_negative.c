@@ -2,8 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - is our function, this is where our execution starts.
+/**
+ * main - this is the entry of our program.
+ *
+ * main has no command-line argument and retunring an integer.
  *
  * Return: our program return (0)
  */

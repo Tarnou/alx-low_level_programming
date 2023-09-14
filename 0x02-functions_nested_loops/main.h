@@ -3,9 +3,10 @@
 
 
 /*
- * this this is the functiion prototype of main.h
+ * this this is the function prototype of main.h
  */
 int _putchar(char c);
-void _print_alphabet(void);
+
+void print_alphabet(void);
 
 #endif
